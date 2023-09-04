@@ -1,0 +1,24 @@
+[
+    {
+        "relation": [ "delegate_permission/common.handle_all_urls" ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "de.sungaila.pdftoimage",
+            "sha256_cert_fingerprints": [
+                "98:E3:1E:F8:4E:D8:14:CF:CB:13:0B:0B:03:37:4A:DD:AD:1F:CF:89:27:CF:80:DC:46:70:04:06:CF:40:DF:97",
+                "80:CE:5D:39:00:69:CD:4B:A0:0F:65:17:27:0E:AB:42:17:98:24:CB:01:01:7C:94:51:F9:40:57:89:61:D1:05"
+            ]
+        }
+    },
+    {
+        "relation": [ "delegate_permission/common.handle_all_urls" ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "de.sungaila.pdftozpl",
+            "sha256_cert_fingerprints": [
+                "EB:A5:FD:75:2A:32:ED:0F:10:1D:66:3E:1B:90:D3:23:12:44:A4:44:0C:9E:4B:C6:60:2C:56:10:80:50:4E:71",
+                "2D:AB:3D:CA:F5:B4:3A:FD:28:F2:90:B7:A3:89:61:87:AE:35:B3:8A:88:DE:2B:4E:04:EC:8D:F9:A2:E1:2A:9E"
+            ]
+        }
+    }
+]
