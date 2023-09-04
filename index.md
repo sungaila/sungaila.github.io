@@ -1,6 +1,7 @@
 Hello, I create stuff in .NET and C#. Visit [my GitHub profile page](https://github.com/sungaila) for more info.
 
 ## NuGet packages
+
 | | Project | Description | Links |
 |---|---|---|---|
 | <img src="https://raw.githubusercontent.com/sungaila/PDFtoImage/master/etc/Icon.png" alt="PDFtoImage logo" width="48" height="48"> | [PDFtoImage](https://github.com/sungaila/PDFtoImage) | A .NET library to render [PDF files](https://en.wikipedia.org/wiki/PDF) into images. | [![NuGet version](https://img.shields.io/nuget/v/PDFtoImage.svg?style=flat-square&logo=nuget&logoColor=white)](https://www.nuget.org/packages/PDFtoImage/) [![Website](https://img.shields.io/website?up_message=online&down_message=offline&url=https%3A%2F%2Fsungaila.github.io%2FPDFtoImage%2F&style=flat-square&label=website)](https://sungaila.github.io/PDFtoImage/) |
@@ -12,6 +13,7 @@ Hello, I create stuff in .NET and C#. Visit [my GitHub profile page](https://git
 | <img src="https://raw.githubusercontent.com/sungaila/RedditQuoteBot/master/Icon.png" alt="RedditQuoteBot logo" width="48" height="48"> | [RedditQuoteBot](https://github.com/sungaila/RedditQuoteBot) | A reddit bot scanning comments for trigger phrases to reply with predefined quotes. | [![NuGet version](https://img.shields.io/nuget/v/RedditQuoteBot.svg?style=flat-square&logo=nuget&logoColor=white)](https://www.nuget.org/packages/RedditQuoteBot/) |
 
 ## Projects available as download
+
 | | Project | Description | Links |
 |---|---|---|---|
 | <img src="https://raw.githubusercontent.com/sungaila/SurvivalNotRequired/master/etc/Icon.png" alt="Survival Not Required logo" width="48" height="48"> | [Survival Not Required](https://github.com/sungaila/SurvivalNotRequired) | A mod for the game [Oxygen Not Included](https://www.klei.com/games/oxygen-not-included) from Klei Entertainment. Its goal is to lower the difficulty for the first few day cycles and thus make the game more accessible for beginners. | [![Steam Subscriptions](https://img.shields.io/steam/subscriptions/2840201171?style=flat-square&logo=steam&logoColor=white&label=subs)](https://steamcommunity.com/sharedfiles/filedetails/?id=2840201171) |
@@ -20,6 +22,7 @@ Hello, I create stuff in .NET and C#. Visit [my GitHub profile page](https://git
 | <img src="https://raw.githubusercontent.com/sungaila/Quipbot/main/Icon.png" alt="Quipbot logo" width="48" height="48"> | [Quipbot](https://github.com/sungaila/Quipbot) | Runs multiple bots to play [Jackbox Games](https://www.jackboxgames.com/) autonomously. Uses [WebView2](https://aka.ms/webview) (hosted inside of [WPF](https://github.com/dotnet/wpf)) for rendering and controlling the bots. | |
 
 ## Available in digital application stores
+
 | | Project | Description | Links |
 |---|---|---|---|
 | <img src="https://play-lh.googleusercontent.com/IjFEZEQrzdbpADDU3xCsiejix-vdWYt2bwfdw_pf2iqv0L2kvKAR8Iqkl4D1As0pDWA" alt="Roboto Digital logo" width="48" height="48"> | [Roboto Digital](https://play.google.com/store/apps/details?id=de.sungaila.robotodigital) | A simple digital watch face using the Roboto font family. | <a href='https://play.google.com/store/apps/details?id=de.sungaila.robotodigital&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height=48/></a> |
