@@ -15,6 +15,7 @@ Hello, I create stuff in .NET and C#. Visit my [GitHub profile page](https://git
 
 ## NuGet packages
 <div class="table-wrapper">
+
 |  | Project | Description | Links |
 |---|---|---|---|
 | <img src="https://raw.githubusercontent.com/sungaila/PDFtoImage/master/etc/Icon.png" alt="PDFtoImage logo" width="48" height="48" style="min-width: 48px"> | [PDFtoImage](https://github.com/sungaila/PDFtoImage) | A .NET library to render [PDF files](https://en.wikipedia.org/wiki/PDF) into images. | [<img src="https://img.shields.io/nuget/v/PDFtoImage.svg?style=flat-square&logo=nuget&logoColor=white" style="max-width: 100%; height: auto; min-height: 20px;" alt="Badge" />](https://www.nuget.org/packages/PDFtoImage/) [<img src="https://img.shields.io/website?up_message=online&down_message=offline&url=https%3A%2F%2Fwww.sungaila.de%2FPDFtoImage%2F&style=flat-square&label=website" style="max-width: 100%; height: auto; min-height: 20px;" alt="Badge" />](https://www.sungaila.de/PDFtoImage/) |
@@ -31,6 +32,7 @@ Hello, I create stuff in .NET and C#. Visit my [GitHub profile page](https://git
 
 ## Programs to download
 <div class="table-wrapper">
+
 |  | Project | Description | Links |
 |---|---|---|---|
 | <img src="https://raw.githubusercontent.com/sungaila/SurvivalNotRequired/master/etc/Icon.png" alt="Survival Not Required logo" width="48" height="48" style="min-width: 48px"> | [Survival Not Required](https://github.com/sungaila/SurvivalNotRequired) | A mod for the game [Oxygen Not Included](https://www.klei.com/games/oxygen-not-included) from Klei Entertainment. Its goal is to lower the difficulty for the first few day cycles and thus make the game more accessible for beginners. | [<img src="https://img.shields.io/steam/views/2840201171?style=flat-square&logo=steam&logoColor=white&label=views" style="max-width: 100%; height: auto; min-height: 20px;" alt="Badge" />](https://steamcommunity.com/sharedfiles/filedetails/?id=2840201171) |
@@ -40,6 +42,7 @@ Hello, I create stuff in .NET and C#. Visit my [GitHub profile page](https://git
 
 ## Available in digital stores
 <div class="table-wrapper">
+
 |  | Project | Description | Links |
 |---|---|---|---|
 | <img src="https://raw.githubusercontent.com/sungaila/SUBSTitute/master/etc/SUBSTitute.ico" alt="SUBSTitute logo" width="48" height="48"> | [SUBSTitute](https://github.com/sungaila/SUBSTitute) | A GUI for mapping directories to virtual drives (see SUBST command). It is built on top of .NET and Windows UI Library 3 (WinUI 3). | <a href="https://apps.microsoft.com/store/detail/9NGPRNJJKLBG?launch=true"><img alt="Get it from Microsoft Store" src="https://get.microsoft.com/images/en-us%20dark.svg" width="128" /></a> |
